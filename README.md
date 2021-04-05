@@ -45,8 +45,8 @@
     <br>
     <p align="center">Hewe awe some of my <br>
     most used s-s-sociaw things >~< xoxox</p>
-    <p align="center"><a href="https://twitter.com/IDotz0r" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/UGrWaaQPRJ" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-    <p align="center"><a href="https://www.twitch.tv/idotz0r" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+    <p align="center"><a href="https://twitter.com/IDotz0r" target="_blank"><img src="https://img.shields.io/badge/IDotz0r%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/UGrWaaQPRJ" target="_blank"><img src="https://img.shields.io/badge/Monster Team%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+    <p align="center"><a href="https://www.twitch.tv/idotz0r" target="_blank"><img src="https://img.shields.io/badge/idotz0r%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
     </div>
     <br>
     <div>
