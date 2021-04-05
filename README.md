@@ -17,10 +17,10 @@
     <b>Loves:</b> you! and donuts and games maybe -///-
     </li>
     <li>
-    <b>Gender:</b> her
+    <b>Gender:</b> she/her/Female
     </li>
     <li>
-    <b>Hobbys:</b> Tech Stuff, Developer, Music, Gamer
+    <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
     </li>
     <li>
     <b>Working @:</b> Intave Anticheat
@@ -53,8 +53,6 @@
     <h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
     <br>
     <div align="center"><p>
-    
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&redirect=true)
     <p>
     <br>
     <br>
