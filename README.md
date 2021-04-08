@@ -17,13 +17,13 @@
     <b>Loves:</b> you! and donuts and games maybe -///-
     </li>
     <li>
-    <b>Gender:</b> she/her/Female
+    <b>Gender:</b> her
     </li>
     <li>
     <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
     </li>
     <li>
-    <b>Working @:</b> Intave Anticheat
+    <b>Working @:</b> FiveM Servers , Discord Bots , Websites
     </li>
     <br>
     <p><b>     Thanks fow weading this onyee-san<br>
