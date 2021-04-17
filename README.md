@@ -20,7 +20,7 @@
     <b>Gender:</b> her
     </li>
     <li>
-    <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
+    <b>Hobbys:</b> Tech Stuff, 3D Design, Music, Developing
     </li>
     <li>
     <b>Working @:</b> FiveM Servers , Discord Bots , Websites
