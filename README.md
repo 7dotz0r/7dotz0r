@@ -23,7 +23,7 @@
     <b>Hobbys:</b> Tech Stuff, 3D Design, Music, Developing
     </li>
     <li>
-    <b>Working @:</b> FiveM Servers , Discord Bots , Websites
+    <b>Working @:</b> FiveM Servers , Discord Bots , Websites , And Others
     </li>
     <br>
     <p><b>     Thanks fow weading this onyee-san<br>
